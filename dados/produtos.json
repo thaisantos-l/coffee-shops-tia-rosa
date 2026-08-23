@@ -1,0 +1,98 @@
+[
+    {
+        "codigo": 1,
+        "nome": "Café Coado",
+        "categoria": "Bebida",
+        "preco": 5.0,
+        "descricao": "Café coado na hora, grãos 100% arábica",
+        "estoque": 50
+    },
+    {
+        "codigo": 2,
+        "nome": "Espresso",
+        "categoria": "Bebida",
+        "preco": 6.5,
+        "descricao": "Dose única de café espresso curto",
+        "estoque": 40
+    },
+    {
+        "codigo": 3,
+        "nome": "Cappuccino",
+        "categoria": "Bebida",
+        "preco": 9.5,
+        "descricao": "Espresso, leite vaporizado, canela e chocolate em pó",
+        "estoque": 28
+    },
+    {
+        "codigo": 4,
+        "nome": "Mocha",
+        "categoria": "Bebida",
+        "preco": 12.0,
+        "descricao": "Espresso, chocolate meio amargo, leite e chantilly",
+        "estoque": 25
+    },
+    {
+        "codigo": 5,
+        "nome": "Chocolate Quente",
+        "categoria": "Bebida",
+        "preco": 11.0,
+        "descricao": "Chocolate ao leite cremoso com raspas de chocolate",
+        "estoque": 20
+    },
+    {
+        "codigo": 6,
+        "nome": "Bolo de Cenoura",
+        "categoria": "Doce",
+        "preco": 8.5,
+        "descricao": "Fatia de bolo de cenoura com cobertura de chocolate",
+        "estoque": 15
+    },
+    {
+        "codigo": 7,
+        "nome": "Torta de Limão",
+        "categoria": "Doce",
+        "preco": 12.0,
+        "descricao": "Massa amanteigada, creme de limão e merengue",
+        "estoque": 5
+    },
+    {
+        "codigo": 8,
+        "nome": "Cookie de Chocolate",
+        "categoria": "Doce",
+        "preco": 7.0,
+        "descricao": "Cookie artesanal com gotas de chocolate meio amargo",
+        "estoque": 24
+    },
+    {
+        "codigo": 9,
+        "nome": "Brigadeiro Gourmet",
+        "categoria": "Doce",
+        "preco": 5.5,
+        "descricao": "Brigadeiro de chocolate belga com granulado",
+        "estoque": 30
+    },
+    {
+        "codigo": 10,
+        "nome": "Pão de Queijo",
+        "categoria": "Salgado",
+        "preco": 6.0,
+        "descricao": "Porção com 3 unidades de pão de queijo mineiro",
+        "estoque": 36
+    },
+    {
+        "codigo": 11,
+        "nome": "Croissant",
+        "categoria": "Salgado",
+        "preco": 9.0,
+        "descricao": "Croissant folhado feito com manteiga francesa",
+        "estoque": 18
+    },
+    {
+        "codigo": 12,
+        "nome": "Misto Quente",
+        "categoria": "Salgado",
+        "preco": 11.5,
+        "descricao": "Pão de forma na chapa com presunto e queijo",
+        "estoque": 19
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "codigo": 1,
+        "nome": "Ana Beatriz Souza",
+        "telefone": "(11) 98812-4477",
+        "pontos": 45
+    },
+    {
+        "codigo": 2,
+        "nome": "Carlos Eduardo Lima",
+        "telefone": "(11) 99630-1182",
+        "pontos": 99
+    },
+    {
+        "codigo": 3,
+        "nome": "Juliana Martins",
+        "telefone": "(11) 97441-2098",
+        "pontos": 108
+    },
+    {
+        "codigo": 4,
+        "nome": "Roberto Nogueira",
+        "telefone": "(11) 98155-7734",
+        "pontos": 27
+    },
+    {
+        "codigo": 5,
+        "nome": "Fernanda Alves",
+        "telefone": "(11) 99027-6613",
+        "pontos": 0
+    }
+]
