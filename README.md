@@ -85,10 +85,6 @@ o pedidos.py, sem precisar procurar em um arquivo unico e gigante.
 1. Instale o Python 3 (https://www.python.org/downloads/)
 2. Baixe ou clone este repositorio:
 
-```
-git clone https://github.com/<SEU-USUARIO>/coffee-shops-tia-rosa.git
-```
-
 3. Abra o terminal dentro da pasta do projeto
 4. Execute:
 
